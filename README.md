@@ -3,7 +3,7 @@
 A self-hosted board for the sticker/art/game business: **Art Fairs** (editable tracker), **Channels** (posting/feedback reference), and a **Calendar** (drag-free event board with date ranges, hover details, add/edit/delete).
 
 Built with Vite + React. Data persists to a **private GitHub Gist** (same pattern as `wedder`), so it syncs across your devices with no server to run.
-
+ 
 ## Run locally
 
 ```bash
